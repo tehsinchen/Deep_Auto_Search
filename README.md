@@ -17,6 +17,6 @@ The process of centralization, recording and saving were speeded up 15 times and
 ## Result
 
 
-Below are the images that were automatically collected for three hours. Moreover, an additional machine trained with binary classification was included in this project for controlling the quality so that it does not require manual selection of results.
+Below are the 143 cells(images) that were automatically collected for three hours. Moreover, an additional machine trained with binary classification was included in this project for controlling the quality so that it does not require manual selection of results.
 
 ![image](https://github.com/tehsinchen/Deep_Auto_Search/blob/main/auto_search_demo/auto_search.gif)
