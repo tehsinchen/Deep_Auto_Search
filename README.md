@@ -4,6 +4,16 @@
 The large number in statistics is essential to validate the statement. However, manual collection is boring and time consuming. In this work, the collection was done by fully automatic operation which combined the projects of https://github.com/tehsinchen/Eff-Unet-Keras for centralization and https://github.com/tehsinchen/Deep_Autofocus for finding the focal plane.
 
 
+
+## Demonstration
+
+
+The process of centralization, recording and saving were speeded up 15 times and 0.8x for finding the focal plane.
+
+![image](https://github.com/tehsinchen/Deep_Auto_Search/blob/main/auto_search_demo/auto_search_demo.gif)
+
+
+
 ## Result
 
 
